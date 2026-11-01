@@ -1,4 +1,4 @@
-# 🏛️ Governança da Informação no Governo Digital da Bahia
+# Governança da Informação no Governo Digital da Bahia
 
 ###  Análise da qualidade e da organização das informações dos serviços públicos digitais
 
