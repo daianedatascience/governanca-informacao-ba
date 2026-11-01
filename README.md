@@ -1,71 +1,63 @@
-# Governança da Informação no Governo Digital da Bahia
+#  Governança da Informação no Governo Digital da Bahia
 
 ###  Análise da qualidade e da organização das informações dos serviços públicos digitais
 
-## Sobre o projeto
+##  Sobre o projeto
 
-Este repositório apresenta um estudo de caso independente sobre a qualidade e a organização das informações disponibilizadas no portal BA.GOV.BR, plataforma de serviços digitais do Governo do Estado da Bahia.
+Este repositório apresenta um estudo independente sobre a governança da informação publicada nos serviços públicos digitais do Governo da Bahia, a partir da análise de informações disponibilizadas no portal BA.GOV.BR e no Guia de Serviços do Estado.
 
-A análise investiga como as informações dos serviços públicos são apresentadas aos cidadãos, considerando aspectos como completude, clareza e linguagem simples, padronização, atualização, rastreabilidade e integração entre canais.
-
-O estudo parte da compreensão de que a transformação digital do setor público não depende apenas da digitalização dos serviços, mas também da qualidade das informações que orientam sua utilização.
+O estudo considera aspectos relacionados à qualidade, organização, clareza, completude, padronização e integração das informações apresentadas aos cidadãos.
 
 ## 🎯 Objetivo
 
-Avaliar a qualidade das informações publicadas sobre serviços públicos digitais da Bahia, identificando oportunidades de melhoria relacionadas à governança da informação e à experiência do cidadão.
+Analisar como as informações dos serviços públicos digitais são apresentadas ao cidadão, identificando aspectos positivos e oportunidades de melhoria na organização, clareza e consistência do conteúdo publicado.
 
 ## 🔍 Serviços analisados
 
-Foram selecionados três serviços de diferentes áreas da administração pública estadual:
+Foram selecionados três serviços públicos digitais:
 
-1. **Primeira via da Carteira de Identidade Nacional (CIN)** — Departamento de Polícia Técnica (DPT).
-   - [Consultar serviço no Guia de Serviços](https://servicos.ba.gov.br/detalhe/servico/2158)
+1. **Obter 1ª via da Carteira de Identidade Nacional (CIN)**
+   - [Consultar serviço](https://servicos.ba.gov.br/detalhe/servico/2158)
 
-2. **Renovação da Carteira Nacional de Habilitação (CNH)** — Departamento Estadual de Trânsito (DETRAN).
-   - [Consultar serviço no Guia de Serviços](https://servicos.ba.gov.br/detalhe/servico/1083)
+2. **Solicitar renovação da Carteira Nacional de Habilitação (CNH)**
+   - [Consultar serviço](https://servicos.ba.gov.br/detalhe/servico/1083)
 
-3. **Emissão do Certificado de Antecedentes Criminais** — Polícia Civil do Estado da Bahia (PCBA).
-   - [Consultar serviço no Guia de Serviços](https://servicos.ba.gov.br/detalhe/servico/635)
+3. **Emitir Certificado de Antecedentes Criminais do Estado da Bahia**
+   - [Consultar serviço](https://servicos.ba.gov.br/detalhe/servico/635)
 
 ## 📊 Dimensões de avaliação
 
 A análise considera cinco dimensões:
 
-| **Dimensão** | **Aspectos observados** |
-|---|---|
-| Completude | Disponibilidade das informações necessárias à utilização do serviço. |
-| Clareza e linguagem simples | Objetividade, compreensibilidade e organização do conteúdo. |
-| Padronização | Consistência na apresentação das informações. |
-| Atualização e rastreabilidade | Identificação institucional, datas e referências de origem. |
-| Integração entre canais | Coerência e conexão entre o portal e o Guia de Serviços. |
+- **Completude:** presença das informações necessárias para compreender e acessar o serviço.
+- **Clareza e linguagem simples:** facilidade de compreensão das informações apresentadas.
+- **Padronização:** consistência na estrutura e na apresentação dos conteúdos.
+- **Atualização e rastreabilidade:** indicação de atualização e possibilidade de identificar a origem das informações.
+- **Integração entre canais:** articulação entre o portal BA.GOV.BR e o Guia de Serviços.
 
-As avaliações utilizam quatro classificações: Atendido, Parcialmente atendido, Não atendido e Não se aplica.
+As dimensões foram avaliadas por meio de uma matriz com quatro classificações: Atendido, Parcialmente atendido, Não atendido e Não se aplica.
 
 ## 📚 Referências estratégicas e normativas
 
-O estudo dialoga com:
+O estudo considera como referências:
 
-- Estratégia de Governo Digital da Bahia (EGD-BA 2025–2029).
-- Estratégia Nacional de Governo Digital 2024–2027.
-- Lei nº 15.263/2025 — Política Nacional de Linguagem Simples.
+- [Estratégia de Governo Digital da Bahia (EGD-BA 2025–2029)](https://www.ba.gov.br/bahiadigital/estrategia-governo-digital)
+- [Estratégia Nacional de Governo Digital 2024–2027](https://www.gov.br/governodigital/pt-br/estrategias-e-governanca-digital/estrategianacional/)
+- [Decreto nº 12.069/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/Decreto/D12069.htm)
+- [Lei nº 15.263/2025 — Política Nacional de Linguagem Simples](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15263.htm)
 
 ## 📁 Principais entregas
 
-- Relatório de análise documental.
-- Matriz comparativa dos serviços avaliados.
-- Diagnóstico das oportunidades de melhoria.
-- Recomendações para organização, padronização e atualização das informações.
-- Proposta de checklist para revisão de conteúdos de serviços públicos digitais.
+📄 [Acessar o relatório completo do estudo](docs/relatorio-estudo-de-caso.pdf)
 
 ## 💡 Resultados e contribuições
 
-O estudo busca demonstrar como critérios de governança da informação podem ser aplicados à análise de conteúdos públicos digitais, identificando oportunidades para melhorar a consistência, a clareza e a acessibilidade das informações disponibilizadas aos cidadãos.
+O estudo busca contribuir para a discussão sobre governança da informação no contexto do governo digital, destacando a importância de informações públicas acessíveis, consistentes, atualizadas e compreensíveis.
 
-A proposta também evidencia a relação entre governança da informação, linguagem simples e transformação digital do setor público.
+A análise também apresenta recomendações voltadas à melhoria da experiência do cidadão no acesso aos serviços públicos digitais.
 
 ## ⚠️ Limitações
 
-A análise está restrita às informações publicamente disponíveis nos três serviços selecionados. Não contempla auditoria, avaliação de maturidade institucional, análise de sistemas internos ou entrevistas com gestores e cidadãos.
+A análise está restrita às informações publicamente disponíveis nas páginas dos serviços selecionados e no Guia de Serviços do Estado da Bahia, considerando o recorte temporal da coleta, realizada em outubro de 2026.
 
-Os resultados representam um recorte documental e temporal, não podendo ser generalizados para todos os serviços digitais do Estado.
-
+Não foram avaliados processos internos, estruturas institucionais, sistemas ou políticas de governança dos órgãos responsáveis pelos serviços. Portanto, os resultados não permitem conclusões sobre a maturidade da governança institucional desses órgãos.
