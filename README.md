@@ -8,7 +8,7 @@ Este repositório apresenta um estudo independente sobre a governança da inform
 
 O estudo considera aspectos relacionados à qualidade, organização, clareza, completude, padronização e integração das informações apresentadas aos cidadãos.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Analisar como as informações dos serviços públicos digitais são apresentadas ao cidadão, identificando aspectos positivos e oportunidades de melhoria na organização, clareza e consistência do conteúdo publicado.
 
