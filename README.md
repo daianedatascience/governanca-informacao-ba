@@ -12,7 +12,7 @@ O estudo considera aspectos relacionados à qualidade, organização, clareza, c
 
 Analisar como as informações dos serviços públicos digitais são apresentadas ao cidadão, identificando aspectos positivos e oportunidades de melhoria na organização, clareza e consistência do conteúdo publicado.
 
-## 🔍 Serviços analisados
+##  Serviços analisados
 
 Foram selecionados três serviços públicos digitais:
 
@@ -25,7 +25,7 @@ Foram selecionados três serviços públicos digitais:
 3. **Emitir Certificado de Antecedentes Criminais do Estado da Bahia**
    - [Consultar serviço](https://servicos.ba.gov.br/detalhe/servico/635)
 
-## 📊 Dimensões de avaliação
+##  Dimensões de avaliação
 
 A análise considera cinco dimensões:
 
@@ -37,7 +37,7 @@ A análise considera cinco dimensões:
 
 As dimensões foram avaliadas por meio de uma matriz com quatro classificações: Atendido, Parcialmente atendido, Não atendido e Não se aplica.
 
-## 📚 Referências estratégicas e normativas
+##  Referências estratégicas e normativas
 
 O estudo considera como referências:
 
