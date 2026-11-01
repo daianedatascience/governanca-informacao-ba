@@ -48,7 +48,7 @@ O estudo considera como referências:
 
 ## 📁 Principais entregas
 
-📄 [Acessar o relatório completo do estudo](docs/relatorio-estudo-de-caso.pdf)
+📄 [📄 Acessar o relatório completo](relatorio-estudo-de-caso.pdf)
 
 ## 💡 Resultados e contribuições
 
